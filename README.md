@@ -1,3 +1,5 @@
+> **Moved.** This repository now lives in [github.com/EndlessRay/asha-benchmarks](https://github.com/EndlessRay/asha-benchmarks/tree/main/a2a/harley) under a2a/harley/, with its full commit history. This copy is archived read-only so published links keep working.
+
 # Harley — Fitness Coaching by DNAi Systems
 
 **AI fitness coaching agent via the [A2A protocol](https://a2aproject.github.io/A2A/).** Designs workouts, analyzes exercise science, coaches clients. Backed by ~52M training/sport-science vectors from the Citadel corpus.
